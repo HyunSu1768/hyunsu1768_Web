@@ -14,9 +14,9 @@
 theme: jekyll-agency
 
 url    : "https://HyunSu1768,github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/hyunsu1768_Web" # the subpath of your site, e.g. /blog
 
-title      : HS Software
+title      : HS Web
 email      : bybyjin2@gmail.com #this is also the email contact forms will go to
 description: "Teen Programmer's Diary"
 author     : HyunSu
@@ -27,7 +27,7 @@ author     : HyunSu
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: G-ZD40PEH754
 
 collections:
   portfolio:
@@ -36,4 +36,4 @@ markdown: kramdown
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
-# formspree_form_path: "f/a_form_id"
+formspree_form_path: "f/moqrgnrz"

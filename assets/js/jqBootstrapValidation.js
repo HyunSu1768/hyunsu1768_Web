@@ -234,7 +234,7 @@
               $this.attr("type").toLowerCase() === "email"
             ) {
               message =
-                "Not a valid email address<!-- data-validator-validemail-message to override -->";
+                "잘못된 이메일 형식입니다!<!-- data-validator-validemail-message to override -->";
               if ($this.data("validationValidemailMessage")) {
                 message = $this.data("validationValidemailMessage");
               } else if ($this.data("validationEmailMessage")) {

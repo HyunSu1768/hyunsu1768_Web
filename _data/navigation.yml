@@ -15,9 +15,9 @@ en: &DEFAULT_EN
       section: services
     - title: "내가 한 것"
       section: portfolio
-    - title: "About"
+    - title: "소셜미디어"
       section: about
-    - title: "Contact"
+    - title: "문의하기"
       section: contact
 en-US:
   <<: *DEFAULT_EN
